@@ -259,18 +259,6 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 The AGPL license requires that if you modify and use this software on a network server, you must make your modified source code available to users of that server. This ensures that improvements to the software remain available to the community.
 
-## Contributing
-
-Contributions are welcome and appreciated. Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please ensure your code follows the existing style and includes appropriate documentation.
-
 ## Acknowledgments
 
 This application is built using open-source software:
