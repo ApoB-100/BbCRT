@@ -43,7 +43,7 @@ Unlike traditional reaction time tests, BbCRT provides comprehensive analysis of
 ### Online Version
 
 You can try out the application directly from your browser by visiting:
-**[https://apob-100.github.io/bbcrt](https://apob-100.github.io/BbCRT)**
+**[https://apob-100.github.io/BbCRT](https://apob-100.github.io/BbCRT)**
 
 This link points to the latest stable version hosted via GitHub Pages. No installation required!
 
