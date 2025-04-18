@@ -1,9 +1,9 @@
 # Browser-based Continuous Reaction Time Test (BbCRT)
 
-![BbCRT Logo](logo.png)
+
 
 ## Overview
-
+<img src="logo.png" width="300" align="right">
 The Browser-based Continuous Reaction Time Test (BbCRT) is a sophisticated research tool designed to measure cognitive response speed and variability with high precision. This application enables researchers and clinicians to assess attention and psychomotor function through standardized stimulus-response paradigms. 
 
 Unlike traditional reaction time tests, BbCRT provides comprehensive analysis of response patterns, including statistical distributions and threshold-crossing metrics. The application leverages modern web technologies to deliver laboratory-grade measurements across various devices while monitoring environmental factors that might affect test validity.
