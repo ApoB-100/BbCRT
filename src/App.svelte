@@ -1,20 +1,3 @@
-<!-- TODO: 	Copy OS and Screen information into results clipboard function 
-			DONE: Update the clipboard function
-
-			Use pictograms for what to do when no visual cue used 
-
-			Polling rate detector for Linux, macOS and Windows
-
-			Add version Number
-
-			DONE: Change logo 
-
-			DONE: After 2s with no reaction to a stimulus, end the stimulus and register an error
-
-			DONE: Switch for function generator type
-
-			DONE: Selector for frequency
-		-->
 <!-- This script is not intended to be used for any purpose other than research. 
 	It is not a medical device and should not be used for any medical or diagnostic purposes. 
 	The authors are not responsible for any misuse of this script. 
